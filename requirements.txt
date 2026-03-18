@@ -1,0 +1,5 @@
+requests>=2.30.0
+beautifulsoup4>=4.12.2
+youtubesearchpython>=1.6.8
+yt-dlp>=2026.3.18
+tqdm>=4.66.1
